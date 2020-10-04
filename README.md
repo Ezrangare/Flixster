@@ -32,7 +32,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ## License
 
-    Copyright [2020] [Paul Opiyo]
+    Copyright [2020] [Ezra Ngare]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
